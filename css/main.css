@@ -1,0 +1,56 @@
+/*
+* @Author: cathy.chen
+* @Date:   2017-03-28 15:02:37
+* @Last Modified by:   cathy.chen
+* @Last Modified time: 2017-06-28 14:08:49
+*/
+
+body {
+	padding-top: 70px;
+}
+
+.navbar-center {
+	float: none;
+	vertical-align: top;
+}
+
+.navbar-collapse {
+	text-align: center;
+}
+
+.carousel-inner img{
+	margin: 0 auto;
+}
+
+.menu-tips {
+	text-align: center;
+	border-top: 4px solid #f34949;
+}
+
+.new {
+	margin-top: 220px;
+	margin-bottom: 124px;
+}
+
+.food img:hover {
+	transition: all 0.35s;
+	transform: scale(1.2, 1.1);
+}
+
+.pics {
+	padding-bottom: 100px;
+}
+
+
+footer {
+	background:#3b3b3b;
+	text-align: center;
+}
+footer p{
+	color: #fff;
+}
+footer .col-md-3{
+	padding:50px 0;
+}
+
+
